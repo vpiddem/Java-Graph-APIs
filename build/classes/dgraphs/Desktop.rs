@@ -1,0 +1,6 @@
+dgraphs.OSXDesktop
+dgraphs.Desktop
+dgraphs.WindowsDesktop
+dgraphs.KdeDesktop
+dgraphs.GnomeDesktop
+dgraphs.Windows9xDesktop
